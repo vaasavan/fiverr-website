@@ -25,13 +25,9 @@ p {
     font-family: "Dancing  Script", cursive;
 }
 
-.lamborghini {
+.skill-3 {
     width: 700px;
     top: 700px;
-}
-
-.car {
-    width:200px;
 }
 
 .python {
@@ -52,10 +48,10 @@ p {
     background-color: white;
 }
 
-.bottom-car {
+.skill-2 {
     width: 700px;
 }
 
-.top-car {
+.skill-1 {
     width:700px;
 }
